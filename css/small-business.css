@@ -1,0 +1,39 @@
+/*!
+ * Start Bootstrap - Small Business (https://startbootstrap.com/template-overviews/small-business)
+ * Copyright 2013-2017 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-small-business/blob/master/LICENSE)
+ */
+
+ @font-face{
+  font-family:'Comfortaa';;
+  src:url(fonts/Comfortaa-Bold.ttf);
+  src:url(fonts/Comfortaa-Light.ttf);
+  src:url(fonts/Comfortaa-Regular.ttf);
+
+ }
+ .logo-name{
+  font-family: 'Comfortaa', cursive !important;
+  font-size:30px;
+  color:#fe005;
+  font-weight: bold;
+  text-shadow: 1px 1px #ccc;;
+
+}
+body {
+  font-family: 'Comfortaa', cursive !important;
+  padding-top: 54px;
+  background:#ecf0f5 !important;
+}
+.navbar-light .navbar-toggler {
+    color: #fff;
+    border-color: #fff !important;
+}
+
+hr{
+  border-top:1px solid #dc3545!important;
+}
+@media (min-width: 992px) {
+  body {
+    padding-top: 56px;
+  }
+}
